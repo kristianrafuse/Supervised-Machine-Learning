@@ -13,8 +13,7 @@ In this section, describe the analysis you completed for the machine learning mo
 ## Results
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
-
-* Machine Learning Model 1:
+q* Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
 
 
